@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBB1lDLZ9/c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quinn\\Desktop\\Test1-master\\CleanStacks\\CleanStacks\\CleanStacks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quinn\\.nuget\\packages\\jotunnlib\\2.30.2\\jotunnlib.2.30.2.nupkg.sha512"
+  ],
+  "logs": []
+}
