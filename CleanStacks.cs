@@ -9,7 +9,7 @@ namespace CleanStacks
     {
         public const string PluginGUID = "com.jotunn.CleanStacks";
         public const string PluginName = "CleanStacks";
-        public const string PluginVersion = "1.0.1";
+        public const string PluginVersion = "1.1.0";
 
         private Harmony harmony;
 
